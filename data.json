@@ -1,0 +1,3980 @@
+[
+    {
+        "Nazwa": "1 Maja",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "4 Marca",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "abp. Józefa Teodorowicza",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Adama Asnyka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Adama Mickiewicza",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Adama Próchnika",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Adama Śnieżka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Agrestowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Akacjowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Akademicka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Aleja Armii Krajowej",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Aleja Europejska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Aleja ks. Kazimierza Bednarskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Aleja Monte Cassino",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Andrzeja Struga",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Arachidowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Arbuzowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Ariadna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Arki Bożka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Arniki",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Aroniowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Artura Grottgera",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Artylerzystów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Astrów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Austriacka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Azaliowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Babiego Lata",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Bajkowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Bartosza Głowackiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Bartłomieja",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Barwicka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Barwna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Batalionów Chłopskich",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Bałtycka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Bażancia",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Belgijska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Biskupa Czesława Domina",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Biwakowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Bliska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Bociania",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Boczna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Boczniaków",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Bogusława II",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Bohaterów Warszawy",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Bojowników o wolność i demokrację",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Bolesława Chrobrego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Bolesława Krzywoustego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Bolesława Limanowskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Bonifacego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Borowików",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Borówkowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Bosmańska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Botaniczna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Bożydara",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Bratków",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Bronisława Spasowskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Brytyjska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Bryzy",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Brzoskwiniowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Brzozowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Buczynowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Budowniczych",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Bukowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Bursztynowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Bzów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Bławatków",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Błękitna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Cedrowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Chabrów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Chełmska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Chmielna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Cicha",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Cisowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Cyklamenów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Cypriana Norwida",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Cypryjska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Cyprysowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Cytrynowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Czeremchowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Czereśniowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Czesława Niemena",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Czwartaków",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Daglezji",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Daktylowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Daleka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Dalii",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Darłowska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Dereniowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Deszczowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Diamentowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Dobra",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Dobrych Swatów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Dokerów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Doktora Andrzeja Zientarskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Doktora Jerzego Kostenckiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Drzewna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Duńska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Dworcowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Dyniowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Działkowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Dzieci Wrzesińskich",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Dzierżęcińska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Dąbrówki",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Dębowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Edmunda Dobrzyckiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Ekonomiczna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Emilii Gierczak",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Emilii Plater",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Energetyków",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Eugeniusza Kwiatkowskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Familijna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Farmerska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Feliksa Nowowiejskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Ferdynanda Ruszczyca",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Figowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Filtrowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Fiordów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Fiołków",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Fińska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Firletki",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Forsycji",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Franciszka Ratajczaka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Franciszkańska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Francuska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Frezji",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Fryderyka Chopina",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Gajowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Gdańska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Generała Józefa Bema",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Generała Józefa Hallera",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Generała Józefa Sowińskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Generała Władysława Sikorskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Gerberowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Giełdowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Gnieźnieńska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Gospodarska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Gołębia",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Goździków",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Grabowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Gracjana Bojara-Fijałkowskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Gradowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Graniczna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Grecka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Grodzka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Grunwaldzka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Gruszkowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Gryczana",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Gryfitów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Grzybowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Gwiezdna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Gęsia",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Głogowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Harcerska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Hebanowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Heleny Modrzejewskiej",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Henryka Janochy",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Henryka Sienkiewicza",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Henryka Wieniawskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Hipolita Cegielskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Hiszpańska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Holenderska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Hołdu Pruskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Hubalczyków",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Hugo Kołłątaja",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Ignacego Chrzanowskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Ignacego Jana Paderewskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Ignacego Łukasiewicza",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Indycza",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Innowacyjna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Inwestorska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Irlandzka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Irysów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Izydora Maćkowicza",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jabłoniowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jachtowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jadwigi Jelec",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jagodowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jamneńska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jana Baczewskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jana Bauera",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jana Kasprowicza",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jana Kochanowskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jana Matejki",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jana Pawła II",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jana z Kolna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Janka Stawisińskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jantarowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Janusza Korczaka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jarosława Dąbrowskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jarzębinowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jaskrów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jaskółek",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jasna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jastrzębia",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jaworowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jałowcowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jaśminowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jedności",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jemiołuszek",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jerzego Fitio",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jesienna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jesionowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jeziorna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jeżynowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Joachima Lelewela",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jodłowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Juliana Fałata",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Juliana Krzyżanowskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Juliana Tuwima",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Juliusza Słowackiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Julków Jamneńskich",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jutrzenki",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Józefa Chełmońskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Józefa Chrząszczyńskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Józefa Mireckiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Józefa Wybickiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Jęczmienna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kacza",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kaczeńców",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kadetów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kalinowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kamieniarska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kapitańska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kaprów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kardynała Stefana Wyszyńskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Karola Chodkiewicza",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Karola Mytnika",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Karola Szymanowskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kaszmirowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kasztanowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kaszubska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kazimierza Tetmajera",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kazimierza Wielkiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kazimierza Wyki",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kielecka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kilińszczaków",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Klaudiusza Górskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Klifowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Klimatyczna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Klonowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Klubowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kmieca",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kocanek",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kogucia",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kokosowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kolejowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kolorowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Komisji Edukacji Narodowej",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Komunalna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Konstantego Ildefonsa Gałczyńskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Konstytucji 3 Maja",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Konwalii",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Koperkowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kornela Makuszyńskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Koronkowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Korsarzy",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Korzenna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kosynierów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Koszalińska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kościelna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kościuszkowców",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Krakowska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Krakusa i Wandy",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Krawiecka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Krańcowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kresowian",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kretomińska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Krokusów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Krucza",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Krótka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Księdza Bolesława Domańskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Księdza Jerzego Popiełuszki",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Księdza Maksymiliana Grochowskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Księżnej Anastazji",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Księżycowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kubusia Puchatka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kujawska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kupiecka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kurek",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kutrowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kwiatowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Kędzierzyńska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Laurowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Lawendy",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Lazurowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Lechicka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Legnicka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Leona Zbigniewa Zubrzyckiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Leonida Teligi",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Leopolda Okulickiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Leopolda Staffa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Leszczynowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Letnia",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Leśna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Liliowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Limbowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Lipowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Lniana",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Lotników",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Lubiatowska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Lubuska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Lubuszan",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Ludwika Waryńskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Ludwika Zamenhofa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Lutyków",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Macieja",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Macierzy",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Magnolii",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Mahoniowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Majora Henryka Sucharskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Majówkowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Maksymiliana Golisza",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Maków",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Malinowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Malownicza",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Maltańska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Malw",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Manowska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Mariańska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Marii Konopnickiej",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Marii Ludwiki",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Marii Magdaleny Gąszczak",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Marii Skłodowskiej-Curie",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Marszałka Józefa Piłsudskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Martina Kinga",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Marynarzy",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Maślaków",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Mazowiecka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Mazurska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Małopolska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Melchiora Wańkowicza",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Melonowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Michała Drzymały",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Michała Kajki",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Michała Ogińskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Michała Żebrowskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Mieczysława Jagoszewskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Mieczysława Karłowicza",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Mieszka I",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Miętowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Migdałowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Mikołaja Kopernika",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Mikołaja Reja",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Miodowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Mirabelkowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Mirtowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Miła",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Modrzewiowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Morelowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Morska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Most Powstańców Warszawskich",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Młodości",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Młyńska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Morwowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Mścisława",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Mściwoja",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Na Jamno",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Na Skarpie",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Na Skwierzynkę",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Na Wilkowo",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Nadbrzeżna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Nagietków",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Nasturcji",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Nektarynkowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Niepodległości",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Niezapominajek",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Norberta Barlickiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Obotrytów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Obrońców Helu",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Obrońców Tobruku",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Odrodzenia",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Ogrodników",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Ogrodowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Okienna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Okrężna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Olchowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Oliwkowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Opalowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Opieniek",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Orkiszowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Orla",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Orlików",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Orląt Lwowskich",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Orzechowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Owsiana",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Pablo Nerudy",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Pablo Picassa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Palmowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Pancerniaków",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Pankracego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Panoramiczna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Papiernicza",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Paproci",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Park Europejski",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Park im. Książąt Pomorskich",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Park im. Władysława Turowskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Park Różany",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Parkowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Partyzantów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Pastelowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Piaskowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Piastowska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Pieczarek",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Pigwowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Piniowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Pionierów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Piotra Skargi",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Piratów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Pistacjowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Piwonii",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Plac Gwiaździsty",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Plac Jana Kilińskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Plac Polonii",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Plac Teatralny",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Plac Wolności",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Plac Zwycięstwa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Platanowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Pocztowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Podchorążych",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Podgrodzie",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Podgrzybków",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Podgórna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Podlaska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Podmiejska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Pogodna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Pograniczników",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Polan",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Polna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Polnych Kwiatów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Polnych Traw",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Pomorska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Poprzeczna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Portugalska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Porzeczkowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Posagowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Powstańców Wielkopolskich",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Poziomkowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Połczyńska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Połtawska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Południowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Projektantów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Promienna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Promowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Promykowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Prosta",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Przemysłowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Przepiórek",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Przybysława",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Przyjaźni",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Pszeniczna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Ptasia",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Puszczykowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Północna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Płowce",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Racławicka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Radogoszczańska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Radości",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Ratowników WOPR",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Rekreacyjna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Robotnicza",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Rodła",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Rolna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Romana Dmowskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Romana Sierocińskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Romualda Traugutta",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Rotmistrza Witolda Pileckiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Rozmarynowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Rubinowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Rudolfa Clausiusa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Rumianków",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Rybacka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Rycerska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Rydzów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Rynek Staromiejski",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Ryszarda Siennickiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Rzeczna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Rzemieślnicza",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Rzepakowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Róż",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Różana",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Róży Wiatrów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Sadowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Sanatoryjna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Saperów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Sarzyńska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Sasanek",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Sekwojowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Seminaryjna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Serwacego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Seweryna Pieniężnego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Sezamkowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Sianowska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Siewna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Sikorek",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Skowronków",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Skwer gen. Marka Bezruczki",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Skwer Kasi Sobczyk",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Skwer Ofiar Katyńskich",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Skwer Pionierów Koszalina",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Skwer Polskiego Czerwonego Krzyża",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Skwer prof. Jana Filipkowskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Sokola",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Sosnowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Sosnowe Wzgórze",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Sowia",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Sołecka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Spacerowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Spokojna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Sportowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Sprężarkowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Spółdzielcza",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Srebrna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Stanisława Dąbka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Stanisława Moniuszki",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Stanisława Staszica",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Stanisława Wyspiańskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Starowiejska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Stefana Batorego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Stefana Czarnieckiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Stefana Okrzei",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Stefana Starzyńskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Stefana Żeromskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Stoczniowców",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Stokrotek",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Strażacka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Strefowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Strumykowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Strusia",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Sudecka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Sybiraków",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Synów Pułku",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Syrenki",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Szafirków",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Szafranowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Szałwiowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Szarych Szeregów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Szczecińska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Szeregowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Szeroka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Szewska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Szkolna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Szkutnicza",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Szmaragdowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Szpitalna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Szwoleżerów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Szyprów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Słoneczna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Słoneczników",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Słowiańska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Słowików",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Słupska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Śnieżna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Tadeusza Boya-Żeleńskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Tadeusza Kotarbińskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Tadeusza Kościuszki",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Tadeusza Kutrzeby",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Tadeusza Mazowieckiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Tadeusza Rejtana",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Tadeusza Sygietyńskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Tataraków",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Tkacka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Topolowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Torfowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Tradycji",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Trufli",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Truskawkowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Trzech Dębów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Tulipanów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Turkusowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Turystyczna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Tychowska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Tymiankowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Tytusa Chałubińskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Tęczy",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Ułańska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Urocza",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Wacława Sierpińskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Wakacyjna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Walecznych",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Walerego Wróblewskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Warmińska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Wąwozowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Wenedów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Werbeny",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Wesoła",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Westerplatte",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Weteranów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Wędrowna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Węgierkowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Wiatrów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Wichrowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Widokowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Wiejska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Wielkopolska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Wierzbowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Wikingów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Wiklinowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Wilków Morskich",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Winogronowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Wiosenna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Witolda Doroszewskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Wiązowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Wiśniowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Wodnika",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Wojciecha Korfantego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Wojska Polskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Wołyńska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Wrześniowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Wrzosów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Wspólna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Wydmowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Wypoczynkowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Władysława Andersa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Władysława Broniewskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Władysława Grabskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Władysława IV",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Władysława Laskonogiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Władysława Reymonta",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Władysława Tatarkiewicza",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Władysława Turowskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Własna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Włoska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Zachodnia",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Zacisze",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Zakole",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Zalesie",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Zawiszy Czarnego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Zbigniewa Herberta",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Zbożowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Zdobywców Wału Pomorskiego",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Zefirowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Zenona Klemensiewicza",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Zgoda",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Zielona",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Zielone Wzgórze",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Zielonek",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Zielony Pagórek",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Ziemowita",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Zimowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Zorzy",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Zwycięstwa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Złota",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Złotych Kłosów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Łubinów",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Łużycka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Łąkowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Śliwkowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Śląska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Śmiała",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Śniadeckich",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Światowida",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Świerkowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Świętego Wojciecha",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Świętopełka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Żarnowiecka",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Żeglarska",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Żołnierzy 8. Dywizji",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Żurawia",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Żurawinowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Żwirki i Wigury",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Żwirowa",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Żytnia",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    },
+    {
+        "Nazwa": "Żyzna",
+        "Dzielnica": "Przykładowa Dzielnica",
+        "Koszt": 1000,
+        "Miejscowość": "Przykładowa Miejscowość"
+    }
+]
