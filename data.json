@@ -1,405 +1,399 @@
 [
     {
         "street": "1 Maja",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "4 Marca",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "abp. Józefa Teodorowicza",
-        "region": "",
+        "region": "Wodna Dolina",
         "cost": 2,
         "city": "Koszalin"
     },
     {
         "street": "Adama Asnyka",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Adama Mickiewicza",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Adama Próchnika",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Adama Śnieżka",
-        "region": "",
-        "cost": 2,
+        "region": "Bukowe",
+        "cost": 3,
         "city": "Koszalin"
     },
     {
         "street": "Agrestowa",
         "region": "",
-        "cost": 2,
-        "city": "Koszalin"
+        "cost": 10,
+        "city": "Kretomino (do zatwierdzenia)"
     },
     {
         "street": "Akacjowa",
-        "region": "",
-        "cost": 2,
+        "region": "Rokosowo 1",
+        "cost": 3,
         "city": "Koszalin"
     },
     {
         "street": "Akademicka",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Aleja Armii Krajowej",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Aleja Europejska",
-        "region": "",
-        "cost": 2,
+        "region": "Uni Europejskiej",
+        "cost": 4,
         "city": "Koszalin"
     },
     {
         "street": "Aleja ks. Kazimierza Bednarskiego",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Aleja Monte Cassino",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Andrzeja Struga",
-        "region": "",
-        "cost": 2,
-        "city": "Koszalin"
-    },
-    {
-        "street": "Arachidowa",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Arbuzowa",
         "region": "",
-        "cost": 2,
-        "city": "Koszalin"
+        "cost": 7,
+        "city": "Stare Bielice (do zatwierdzenia)"
     },
     {
         "street": "Ariadna",
         "region": "",
-        "cost": 2,
-        "city": "Koszalin"
+        "cost": 12,
+        "city": "Jamno"
     },
     {
         "street": "Arki Bożka",
-        "region": "",
-        "cost": 2,
+        "region": "Bukowe",
+        "cost": 3,
         "city": "Koszalin"
     },
     {
         "street": "Arniki",
         "region": "",
-        "cost": 2,
-        "city": "Koszalin"
+        "cost": 10,
+        "city": "Kretomino (do zatwierdzenia)"
     },
     {
         "street": "Aroniowa",
         "region": "",
-        "cost": 2,
-        "city": "Koszalin"
+        "cost": 10,
+        "city": "Kretomino (do zatwierdzenia)"
     },
     {
         "street": "Artura Grottgera",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Artylerzystów",
-        "region": "",
-        "cost": 2,
+        "region": "Rokosowo 2",
+        "cost": 5,
         "city": "Koszalin"
     },
     {
         "street": "Astrów",
         "region": "",
-        "cost": 2,
-        "city": "Koszalin"
+        "cost": 10,
+        "city": "Kretomino (do zatwierdzenia)"
     },
     {
         "street": "Austriacka",
-        "region": "",
-        "cost": 2,
+        "region": "Uni Europejskiej",
+        "cost": 4,
         "city": "Koszalin"
     },
     {
         "street": "Azaliowa",
-        "region": "",
-        "cost": 2,
+        "region": "Rokosowo 1",
+        "cost": 3,
         "city": "Koszalin"
     },
     {
         "street": "Babiego Lata",
         "region": "",
-        "cost": 2,
-        "city": "Koszalin"
+        "cost": 7,
+        "city": "Stare Bielice (do zatwierdzenia)"
     },
     {
         "street": "Bajkowa",
-        "region": "",
+        "region": "Wodna Dolina",
         "cost": 2,
         "city": "Koszalin"
     },
     {
         "street": "Bartosza Głowackiego",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Bartłomieja",
-        "region": "",
-        "cost": 2,
+        "region": "Chełmoniewo",
+        "cost": 7,
         "city": "Koszalin"
     },
     {
         "street": "Barwicka",
-        "region": "",
-        "cost": 2,
+        "region": "Sarzyno",
+        "cost": 5,
         "city": "Koszalin"
     },
     {
         "street": "Barwna",
         "region": "",
-        "cost": 2,
-        "city": "Koszalin"
+        "cost": 7,
+        "city": "Stare Bielice (do zatwierdzenia)"
     },
     {
         "street": "Batalionów Chłopskich",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Bałtycka",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Bażancia",
-        "region": "",
-        "cost": 2,
+        "region": "Ptasie",
+        "cost": 5,
         "city": "Koszalin"
     },
     {
         "street": "Belgijska",
-        "region": "",
-        "cost": 2,
+        "region": "Uni Europejskiej",
+        "cost": 4,
         "city": "Koszalin"
     },
     {
         "street": "Biskupa Czesława Domina",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Biwakowa",
-        "region": "",
-        "cost": 2,
+        "region": "Nieobsługiwane",
+        "cost": 999,
         "city": "Koszalin"
     },
     {
         "street": "Bliska",
-        "region": "",
-        "cost": 2,
+        "region": "Bukowe",
+        "cost": 3,
         "city": "Koszalin"
     },
     {
         "street": "Bociania",
-        "region": "",
-        "cost": 2,
+        "region": "Ptasie",
+        "cost": 5,
         "city": "Koszalin"
     },
     {
         "street": "Boczna",
-        "region": "",
-        "cost": 2,
+        "region": "Bukowe",
+        "cost": 3,
         "city": "Koszalin"
     },
     {
         "street": "Boczniaków",
         "region": "",
-        "cost": 2,
-        "city": "Koszalin"
+        "cost": 10,
+        "city": "Kretomino (do zatwierdzenia)"
     },
     {
         "street": "Bogusława II",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Bohaterów Warszawy",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Bojowników o wolność i demokrację",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Bolesława Chrobrego",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Bolesława Krzywoustego",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Bolesława Limanowskiego",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Bonifacego",
-        "region": "",
-        "cost": 2,
+        "region": "Chełmoniewo",
+        "cost": 7,
         "city": "Koszalin"
     },
     {
         "street": "Borowików",
         "region": "",
-        "cost": 2,
-        "city": "Koszalin"
+        "cost": 10,
+        "city": "Kretomino (do zatwierdzenia)"
     },
     {
         "street": "Borówkowa",
-        "region": "",
-        "cost": 2,
+        "region": "Dzieręcino",
+        "cost": 10,
         "city": "Koszalin"
     },
     {
         "street": "Bosmańska",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Botaniczna",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Bożydara",
-        "region": "",
-        "cost": 2,
+        "region": "Chełmoniewo",
+        "cost": 7,
         "city": "Koszalin"
     },
     {
         "street": "Bratków",
         "region": "",
-        "cost": 2,
-        "city": "Koszalin"
+        "cost": 10,
+        "city": "Kretomino (do zatwierdzenia)"
     },
     {
         "street": "Bronisława Spasowskiego",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Brytyjska",
-        "region": "",
-        "cost": 2,
+        "region": "Uni Europejskiej",
+        "cost": 4,
         "city": "Koszalin"
     },
     {
         "street": "Bryzy",
         "region": "",
-        "cost": 2,
-        "city": "Koszalin"
+        "cost": 12,
+        "city": "Jamno"
     },
     {
         "street": "Brzoskwiniowa",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Brzozowa",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Buczynowa",
         "region": "",
-        "cost": 2,
-        "city": "Koszalin"
+        "cost": 7,
+        "city": "Stare Bielice (do zatwierdzenia)"
     },
     {
         "street": "Budowniczych",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Bukowa",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Bursztynowa",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Bzów",
-        "region": "",
-        "cost": 2,
+        "region": "Rokosowo 2",
+        "cost": 5,
         "city": "Koszalin"
     },
     {
         "street": "Bławatków",
         "region": "",
-        "cost": 2,
-        "city": "Koszalin"
+        "cost": 10,
+        "city": "Kretomino (do zatwierdzenia)"
     },
     {
         "street": "Błękitna",
         "region": "",
-        "cost": 2,
-        "city": "Koszalin"
+        "cost": 12,
+        "city": "Jamno"
     },
     {
         "street": "Cedrowa",
