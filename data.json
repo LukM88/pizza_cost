@@ -1,3980 +1,3980 @@
 [
     {
-        "Nazwa": "1 Maja",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "1 Maja",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "4 Marca",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "4 Marca",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "abp. Józefa Teodorowicza",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "abp. Józefa Teodorowicza",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Adama Asnyka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Adama Asnyka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Adama Mickiewicza",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Adama Mickiewicza",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Adama Próchnika",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Adama Próchnika",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Adama Śnieżka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Adama Śnieżka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Agrestowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Agrestowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Akacjowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Akacjowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Akademicka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Akademicka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Aleja Armii Krajowej",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Aleja Armii Krajowej",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Aleja Europejska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Aleja Europejska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Aleja ks. Kazimierza Bednarskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Aleja ks. Kazimierza Bednarskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Aleja Monte Cassino",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Aleja Monte Cassino",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Andrzeja Struga",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Andrzeja Struga",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Arachidowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Arachidowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Arbuzowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Arbuzowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Ariadna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Ariadna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Arki Bożka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Arki Bożka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Arniki",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Arniki",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Aroniowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Aroniowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Artura Grottgera",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Artura Grottgera",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Artylerzystów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Artylerzystów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Astrów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Astrów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Austriacka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Austriacka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Azaliowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Azaliowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Babiego Lata",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Babiego Lata",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Bajkowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Bajkowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Bartosza Głowackiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Bartosza Głowackiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Bartłomieja",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Bartłomieja",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Barwicka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Barwicka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Barwna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Barwna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Batalionów Chłopskich",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Batalionów Chłopskich",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Bałtycka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Bałtycka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Bażancia",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Bażancia",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Belgijska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Belgijska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Biskupa Czesława Domina",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Biskupa Czesława Domina",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Biwakowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Biwakowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Bliska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Bliska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Bociania",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Bociania",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Boczna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Boczna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Boczniaków",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Boczniaków",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Bogusława II",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Bogusława II",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Bohaterów Warszawy",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Bohaterów Warszawy",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Bojowników o wolność i demokrację",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Bojowników o wolność i demokrację",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Bolesława Chrobrego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Bolesława Chrobrego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Bolesława Krzywoustego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Bolesława Krzywoustego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Bolesława Limanowskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Bolesława Limanowskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Bonifacego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Bonifacego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Borowików",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Borowików",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Borówkowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Borówkowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Bosmańska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Bosmańska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Botaniczna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Botaniczna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Bożydara",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Bożydara",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Bratków",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Bratków",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Bronisława Spasowskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Bronisława Spasowskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Brytyjska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Brytyjska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Bryzy",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Bryzy",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Brzoskwiniowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Brzoskwiniowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Brzozowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Brzozowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Buczynowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Buczynowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Budowniczych",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Budowniczych",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Bukowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Bukowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Bursztynowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Bursztynowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Bzów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Bzów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Bławatków",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Bławatków",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Błękitna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Błękitna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Cedrowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Cedrowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Chabrów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Chabrów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Chełmska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Chełmska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Chmielna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Chmielna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Cicha",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Cicha",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Cisowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Cisowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Cyklamenów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Cyklamenów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Cypriana Norwida",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Cypriana Norwida",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Cypryjska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Cypryjska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Cyprysowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Cyprysowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Cytrynowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Cytrynowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Czeremchowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Czeremchowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Czereśniowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Czereśniowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Czesława Niemena",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Czesława Niemena",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Czwartaków",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Czwartaków",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Daglezji",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Daglezji",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Daktylowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Daktylowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Daleka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Daleka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Dalii",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Dalii",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Darłowska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Darłowska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Dereniowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Dereniowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Deszczowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Deszczowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Diamentowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Diamentowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Dobra",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Dobra",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Dobrych Swatów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Dobrych Swatów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Dokerów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Dokerów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Doktora Andrzeja Zientarskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Doktora Andrzeja Zientarskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Doktora Jerzego Kostenckiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Doktora Jerzego Kostenckiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Drzewna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Drzewna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Duńska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Duńska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Dworcowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Dworcowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Dyniowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Dyniowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Działkowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Działkowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Dzieci Wrzesińskich",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Dzieci Wrzesińskich",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Dzierżęcińska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Dzierżęcińska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Dąbrówki",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Dąbrówki",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Dębowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Dębowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Edmunda Dobrzyckiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Edmunda Dobrzyckiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Ekonomiczna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Ekonomiczna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Emilii Gierczak",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Emilii Gierczak",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Emilii Plater",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Emilii Plater",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Energetyków",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Energetyków",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Eugeniusza Kwiatkowskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Eugeniusza Kwiatkowskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Familijna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Familijna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Farmerska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Farmerska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Feliksa Nowowiejskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Feliksa Nowowiejskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Ferdynanda Ruszczyca",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Ferdynanda Ruszczyca",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Figowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Figowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Filtrowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Filtrowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Fiordów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Fiordów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Fiołków",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Fiołków",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Fińska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Fińska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Firletki",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Firletki",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Forsycji",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Forsycji",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Franciszka Ratajczaka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Franciszka Ratajczaka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Franciszkańska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Franciszkańska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Francuska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Francuska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Frezji",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Frezji",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Fryderyka Chopina",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Fryderyka Chopina",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Gajowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Gajowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Gdańska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Gdańska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Generała Józefa Bema",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Generała Józefa Bema",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Generała Józefa Hallera",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Generała Józefa Hallera",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Generała Józefa Sowińskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Generała Józefa Sowińskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Generała Władysława Sikorskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Generała Władysława Sikorskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Gerberowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Gerberowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Giełdowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Giełdowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Gnieźnieńska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Gnieźnieńska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Gospodarska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Gospodarska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Gołębia",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Gołębia",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Goździków",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Goździków",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Grabowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Grabowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Gracjana Bojara-Fijałkowskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Gracjana Bojara-Fijałkowskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Gradowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Gradowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Graniczna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Graniczna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Grecka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Grecka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Grodzka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Grodzka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Grunwaldzka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Grunwaldzka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Gruszkowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Gruszkowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Gryczana",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Gryczana",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Gryfitów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Gryfitów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Grzybowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Grzybowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Gwiezdna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Gwiezdna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Gęsia",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Gęsia",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Głogowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Głogowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Harcerska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Harcerska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Hebanowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Hebanowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Heleny Modrzejewskiej",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Heleny Modrzejewskiej",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Henryka Janochy",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Henryka Janochy",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Henryka Sienkiewicza",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Henryka Sienkiewicza",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Henryka Wieniawskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Henryka Wieniawskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Hipolita Cegielskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Hipolita Cegielskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Hiszpańska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Hiszpańska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Holenderska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Holenderska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Hołdu Pruskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Hołdu Pruskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Hubalczyków",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Hubalczyków",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Hugo Kołłątaja",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Hugo Kołłątaja",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Ignacego Chrzanowskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Ignacego Chrzanowskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Ignacego Jana Paderewskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Ignacego Jana Paderewskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Ignacego Łukasiewicza",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Ignacego Łukasiewicza",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Indycza",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Indycza",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Innowacyjna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Innowacyjna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Inwestorska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Inwestorska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Irlandzka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Irlandzka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Irysów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Irysów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Izydora Maćkowicza",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Izydora Maćkowicza",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jabłoniowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jabłoniowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jachtowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jachtowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jadwigi Jelec",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jadwigi Jelec",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jagodowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jagodowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jamneńska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jamneńska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jana Baczewskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jana Baczewskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jana Bauera",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jana Bauera",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jana Kasprowicza",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jana Kasprowicza",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jana Kochanowskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jana Kochanowskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jana Matejki",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jana Matejki",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jana Pawła II",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jana Pawła II",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jana z Kolna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jana z Kolna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Janka Stawisińskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Janka Stawisińskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jantarowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jantarowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Janusza Korczaka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Janusza Korczaka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jarosława Dąbrowskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jarosława Dąbrowskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jarzębinowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jarzębinowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jaskrów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jaskrów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jaskółek",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jaskółek",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jasna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jasna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jastrzębia",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jastrzębia",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jaworowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jaworowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jałowcowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jałowcowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jaśminowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jaśminowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jedności",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jedności",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jemiołuszek",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jemiołuszek",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jerzego Fitio",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jerzego Fitio",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jesienna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jesienna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jesionowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jesionowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jeziorna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jeziorna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jeżynowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jeżynowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Joachima Lelewela",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Joachima Lelewela",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jodłowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jodłowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Juliana Fałata",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Juliana Fałata",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Juliana Krzyżanowskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Juliana Krzyżanowskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Juliana Tuwima",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Juliana Tuwima",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Juliusza Słowackiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Juliusza Słowackiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Julków Jamneńskich",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Julków Jamneńskich",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jutrzenki",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jutrzenki",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Józefa Chełmońskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Józefa Chełmońskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Józefa Chrząszczyńskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Józefa Chrząszczyńskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Józefa Mireckiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Józefa Mireckiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Józefa Wybickiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Józefa Wybickiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Jęczmienna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Jęczmienna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kacza",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kacza",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kaczeńców",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kaczeńców",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kadetów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kadetów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kalinowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kalinowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kamieniarska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kamieniarska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kapitańska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kapitańska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kaprów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kaprów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kardynała Stefana Wyszyńskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kardynała Stefana Wyszyńskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Karola Chodkiewicza",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Karola Chodkiewicza",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Karola Mytnika",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Karola Mytnika",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Karola Szymanowskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Karola Szymanowskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kaszmirowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kaszmirowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kasztanowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kasztanowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kaszubska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kaszubska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kazimierza Tetmajera",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kazimierza Tetmajera",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kazimierza Wielkiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kazimierza Wielkiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kazimierza Wyki",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kazimierza Wyki",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kielecka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kielecka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kilińszczaków",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kilińszczaków",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Klaudiusza Górskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Klaudiusza Górskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Klifowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Klifowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Klimatyczna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Klimatyczna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Klonowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Klonowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Klubowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Klubowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kmieca",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kmieca",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kocanek",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kocanek",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kogucia",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kogucia",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kokosowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kokosowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kolejowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kolejowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kolorowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kolorowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Komisji Edukacji Narodowej",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Komisji Edukacji Narodowej",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Komunalna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Komunalna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Konstantego Ildefonsa Gałczyńskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Konstantego Ildefonsa Gałczyńskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Konstytucji 3 Maja",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Konstytucji 3 Maja",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Konwalii",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Konwalii",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Koperkowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Koperkowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kornela Makuszyńskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kornela Makuszyńskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Koronkowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Koronkowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Korsarzy",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Korsarzy",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Korzenna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Korzenna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kosynierów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kosynierów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Koszalińska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Koszalińska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kościelna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kościelna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kościuszkowców",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kościuszkowców",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Krakowska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Krakowska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Krakusa i Wandy",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Krakusa i Wandy",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Krawiecka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Krawiecka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Krańcowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Krańcowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kresowian",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kresowian",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kretomińska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kretomińska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Krokusów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Krokusów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Krucza",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Krucza",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Krótka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Krótka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Księdza Bolesława Domańskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Księdza Bolesława Domańskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Księdza Jerzego Popiełuszki",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Księdza Jerzego Popiełuszki",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Księdza Maksymiliana Grochowskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Księdza Maksymiliana Grochowskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Księżnej Anastazji",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Księżnej Anastazji",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Księżycowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Księżycowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kubusia Puchatka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kubusia Puchatka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kujawska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kujawska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kupiecka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kupiecka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kurek",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kurek",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kutrowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kutrowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kwiatowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kwiatowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Kędzierzyńska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Kędzierzyńska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Laurowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Laurowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Lawendy",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Lawendy",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Lazurowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Lazurowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Lechicka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Lechicka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Legnicka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Legnicka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Leona Zbigniewa Zubrzyckiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Leona Zbigniewa Zubrzyckiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Leonida Teligi",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Leonida Teligi",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Leopolda Okulickiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Leopolda Okulickiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Leopolda Staffa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Leopolda Staffa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Leszczynowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Leszczynowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Letnia",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Letnia",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Leśna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Leśna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Liliowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Liliowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Limbowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Limbowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Lipowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Lipowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Lniana",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Lniana",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Lotników",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Lotników",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Lubiatowska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Lubiatowska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Lubuska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Lubuska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Lubuszan",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Lubuszan",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Ludwika Waryńskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Ludwika Waryńskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Ludwika Zamenhofa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Ludwika Zamenhofa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Lutyków",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Lutyków",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Macieja",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Macieja",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Macierzy",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Macierzy",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Magnolii",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Magnolii",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Mahoniowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Mahoniowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Majora Henryka Sucharskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Majora Henryka Sucharskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Majówkowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Majówkowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Maksymiliana Golisza",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Maksymiliana Golisza",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Maków",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Maków",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Malinowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Malinowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Malownicza",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Malownicza",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Maltańska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Maltańska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Malw",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Malw",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Manowska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Manowska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Mariańska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Mariańska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Marii Konopnickiej",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Marii Konopnickiej",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Marii Ludwiki",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Marii Ludwiki",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Marii Magdaleny Gąszczak",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Marii Magdaleny Gąszczak",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Marii Skłodowskiej-Curie",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Marii Skłodowskiej-Curie",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Marszałka Józefa Piłsudskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Marszałka Józefa Piłsudskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Martina Kinga",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Martina Kinga",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Marynarzy",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Marynarzy",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Maślaków",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Maślaków",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Mazowiecka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Mazowiecka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Mazurska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Mazurska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Małopolska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Małopolska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Melchiora Wańkowicza",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Melchiora Wańkowicza",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Melonowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Melonowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Michała Drzymały",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Michała Drzymały",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Michała Kajki",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Michała Kajki",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Michała Ogińskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Michała Ogińskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Michała Żebrowskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Michała Żebrowskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Mieczysława Jagoszewskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Mieczysława Jagoszewskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Mieczysława Karłowicza",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Mieczysława Karłowicza",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Mieszka I",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Mieszka I",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Miętowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Miętowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Migdałowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Migdałowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Mikołaja Kopernika",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Mikołaja Kopernika",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Mikołaja Reja",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Mikołaja Reja",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Miodowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Miodowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Mirabelkowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Mirabelkowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Mirtowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Mirtowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Miła",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Miła",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Modrzewiowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Modrzewiowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Morelowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Morelowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Morska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Morska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Most Powstańców Warszawskich",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Most Powstańców Warszawskich",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Młodości",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Młodości",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Młyńska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Młyńska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Morwowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Morwowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Mścisława",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Mścisława",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Mściwoja",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Mściwoja",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Na Jamno",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Na Jamno",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Na Skarpie",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Na Skarpie",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Na Skwierzynkę",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Na Skwierzynkę",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Na Wilkowo",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Na Wilkowo",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Nadbrzeżna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Nadbrzeżna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Nagietków",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Nagietków",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Nasturcji",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Nasturcji",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Nektarynkowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Nektarynkowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Niepodległości",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Niepodległości",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Niezapominajek",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Niezapominajek",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Norberta Barlickiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Norberta Barlickiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Obotrytów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Obotrytów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Obrońców Helu",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Obrońców Helu",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Obrońców Tobruku",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Obrońców Tobruku",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Odrodzenia",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Odrodzenia",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Ogrodników",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Ogrodników",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Ogrodowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Ogrodowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Okienna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Okienna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Okrężna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Okrężna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Olchowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Olchowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Oliwkowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Oliwkowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Opalowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Opalowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Opieniek",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Opieniek",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Orkiszowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Orkiszowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Orla",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Orla",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Orlików",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Orlików",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Orląt Lwowskich",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Orląt Lwowskich",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Orzechowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Orzechowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Owsiana",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Owsiana",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Pablo Nerudy",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Pablo Nerudy",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Pablo Picassa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Pablo Picassa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Palmowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Palmowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Pancerniaków",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Pancerniaków",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Pankracego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Pankracego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Panoramiczna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Panoramiczna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Papiernicza",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Papiernicza",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Paproci",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Paproci",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Park Europejski",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Park Europejski",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Park im. Książąt Pomorskich",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Park im. Książąt Pomorskich",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Park im. Władysława Turowskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Park im. Władysława Turowskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Park Różany",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Park Różany",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Parkowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Parkowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Partyzantów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Partyzantów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Pastelowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Pastelowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Piaskowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Piaskowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Piastowska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Piastowska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Pieczarek",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Pieczarek",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Pigwowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Pigwowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Piniowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Piniowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Pionierów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Pionierów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Piotra Skargi",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Piotra Skargi",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Piratów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Piratów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Pistacjowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Pistacjowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Piwonii",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Piwonii",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Plac Gwiaździsty",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Plac Gwiaździsty",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Plac Jana Kilińskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Plac Jana Kilińskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Plac Polonii",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Plac Polonii",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Plac Teatralny",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Plac Teatralny",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Plac Wolności",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Plac Wolności",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Plac Zwycięstwa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Plac Zwycięstwa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Platanowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Platanowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Pocztowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Pocztowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Podchorążych",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Podchorążych",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Podgrodzie",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Podgrodzie",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Podgrzybków",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Podgrzybków",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Podgórna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Podgórna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Podlaska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Podlaska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Podmiejska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Podmiejska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Pogodna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Pogodna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Pograniczników",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Pograniczników",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Polan",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Polan",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Polna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Polna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Polnych Kwiatów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Polnych Kwiatów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Polnych Traw",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Polnych Traw",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Pomorska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Pomorska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Poprzeczna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Poprzeczna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Portugalska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Portugalska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Porzeczkowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Porzeczkowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Posagowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Posagowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Powstańców Wielkopolskich",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Powstańców Wielkopolskich",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Poziomkowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Poziomkowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Połczyńska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Połczyńska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Połtawska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Połtawska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Południowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Południowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Projektantów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Projektantów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Promienna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Promienna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Promowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Promowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Promykowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Promykowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Prosta",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Prosta",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Przemysłowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Przemysłowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Przepiórek",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Przepiórek",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Przybysława",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Przybysława",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Przyjaźni",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Przyjaźni",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Pszeniczna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Pszeniczna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Ptasia",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Ptasia",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Puszczykowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Puszczykowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Północna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Północna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Płowce",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Płowce",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Racławicka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Racławicka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Radogoszczańska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Radogoszczańska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Radości",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Radości",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Ratowników WOPR",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Ratowników WOPR",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Rekreacyjna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Rekreacyjna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Robotnicza",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Robotnicza",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Rodła",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Rodła",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Rolna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Rolna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Romana Dmowskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Romana Dmowskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Romana Sierocińskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Romana Sierocińskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Romualda Traugutta",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Romualda Traugutta",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Rotmistrza Witolda Pileckiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Rotmistrza Witolda Pileckiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Rozmarynowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Rozmarynowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Rubinowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Rubinowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Rudolfa Clausiusa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Rudolfa Clausiusa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Rumianków",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Rumianków",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Rybacka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Rybacka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Rycerska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Rycerska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Rydzów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Rydzów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Rynek Staromiejski",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Rynek Staromiejski",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Ryszarda Siennickiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Ryszarda Siennickiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Rzeczna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Rzeczna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Rzemieślnicza",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Rzemieślnicza",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Rzepakowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Rzepakowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Róż",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Róż",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Różana",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Różana",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Róży Wiatrów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Róży Wiatrów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Sadowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Sadowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Sanatoryjna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Sanatoryjna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Saperów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Saperów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Sarzyńska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Sarzyńska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Sasanek",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Sasanek",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Sekwojowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Sekwojowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Seminaryjna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Seminaryjna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Serwacego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Serwacego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Seweryna Pieniężnego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Seweryna Pieniężnego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Sezamkowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Sezamkowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Sianowska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Sianowska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Siewna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Siewna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Sikorek",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Sikorek",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Skowronków",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Skowronków",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Skwer gen. Marka Bezruczki",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Skwer gen. Marka Bezruczki",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Skwer Kasi Sobczyk",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Skwer Kasi Sobczyk",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Skwer Ofiar Katyńskich",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Skwer Ofiar Katyńskich",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Skwer Pionierów Koszalina",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Skwer Pionierów Koszalina",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Skwer Polskiego Czerwonego Krzyża",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Skwer Polskiego Czerwonego Krzyża",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Skwer prof. Jana Filipkowskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Skwer prof. Jana Filipkowskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Sokola",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Sokola",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Sosnowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Sosnowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Sosnowe Wzgórze",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Sosnowe Wzgórze",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Sowia",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Sowia",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Sołecka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Sołecka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Spacerowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Spacerowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Spokojna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Spokojna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Sportowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Sportowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Sprężarkowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Sprężarkowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Spółdzielcza",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Spółdzielcza",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Srebrna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Srebrna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Stanisława Dąbka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Stanisława Dąbka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Stanisława Moniuszki",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Stanisława Moniuszki",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Stanisława Staszica",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Stanisława Staszica",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Stanisława Wyspiańskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Stanisława Wyspiańskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Starowiejska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Starowiejska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Stefana Batorego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Stefana Batorego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Stefana Czarnieckiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Stefana Czarnieckiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Stefana Okrzei",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Stefana Okrzei",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Stefana Starzyńskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Stefana Starzyńskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Stefana Żeromskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Stefana Żeromskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Stoczniowców",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Stoczniowców",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Stokrotek",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Stokrotek",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Strażacka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Strażacka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Strefowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Strefowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Strumykowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Strumykowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Strusia",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Strusia",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Sudecka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Sudecka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Sybiraków",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Sybiraków",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Synów Pułku",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Synów Pułku",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Syrenki",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Syrenki",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Szafirków",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Szafirków",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Szafranowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Szafranowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Szałwiowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Szałwiowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Szarych Szeregów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Szarych Szeregów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Szczecińska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Szczecińska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Szeregowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Szeregowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Szeroka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Szeroka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Szewska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Szewska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Szkolna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Szkolna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Szkutnicza",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Szkutnicza",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Szmaragdowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Szmaragdowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Szpitalna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Szpitalna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Szwoleżerów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Szwoleżerów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Szyprów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Szyprów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Słoneczna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Słoneczna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Słoneczników",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Słoneczników",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Słowiańska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Słowiańska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Słowików",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Słowików",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Słupska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Słupska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Śnieżna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Śnieżna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Tadeusza Boya-Żeleńskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Tadeusza Boya-Żeleńskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Tadeusza Kotarbińskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Tadeusza Kotarbińskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Tadeusza Kościuszki",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Tadeusza Kościuszki",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Tadeusza Kutrzeby",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Tadeusza Kutrzeby",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Tadeusza Mazowieckiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Tadeusza Mazowieckiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Tadeusza Rejtana",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Tadeusza Rejtana",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Tadeusza Sygietyńskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Tadeusza Sygietyńskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Tataraków",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Tataraków",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Tkacka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Tkacka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Topolowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Topolowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Torfowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Torfowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Tradycji",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Tradycji",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Trufli",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Trufli",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Truskawkowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Truskawkowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Trzech Dębów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Trzech Dębów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Tulipanów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Tulipanów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Turkusowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Turkusowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Turystyczna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Turystyczna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Tychowska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Tychowska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Tymiankowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Tymiankowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Tytusa Chałubińskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Tytusa Chałubińskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Tęczy",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Tęczy",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Ułańska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Ułańska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Urocza",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Urocza",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Wacława Sierpińskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Wacława Sierpińskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Wakacyjna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Wakacyjna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Walecznych",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Walecznych",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Walerego Wróblewskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Walerego Wróblewskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Warmińska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Warmińska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Wąwozowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Wąwozowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Wenedów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Wenedów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Werbeny",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Werbeny",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Wesoła",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Wesoła",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Westerplatte",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Westerplatte",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Weteranów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Weteranów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Wędrowna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Wędrowna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Węgierkowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Węgierkowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Wiatrów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Wiatrów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Wichrowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Wichrowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Widokowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Widokowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Wiejska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Wiejska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Wielkopolska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Wielkopolska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Wierzbowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Wierzbowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Wikingów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Wikingów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Wiklinowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Wiklinowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Wilków Morskich",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Wilków Morskich",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Winogronowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Winogronowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Wiosenna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Wiosenna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Witolda Doroszewskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Witolda Doroszewskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Wiązowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Wiązowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Wiśniowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Wiśniowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Wodnika",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Wodnika",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Wojciecha Korfantego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Wojciecha Korfantego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Wojska Polskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Wojska Polskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Wołyńska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Wołyńska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Wrześniowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Wrześniowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Wrzosów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Wrzosów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Wspólna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Wspólna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Wydmowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Wydmowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Wypoczynkowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Wypoczynkowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Władysława Andersa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Władysława Andersa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Władysława Broniewskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Władysława Broniewskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Władysława Grabskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Władysława Grabskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Władysława IV",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Władysława IV",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Władysława Laskonogiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Władysława Laskonogiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Władysława Reymonta",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Władysława Reymonta",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Władysława Tatarkiewicza",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Władysława Tatarkiewicza",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Władysława Turowskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Władysława Turowskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Własna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Własna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Włoska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Włoska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Zachodnia",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Zachodnia",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Zacisze",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Zacisze",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Zakole",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Zakole",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Zalesie",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Zalesie",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Zawiszy Czarnego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Zawiszy Czarnego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Zbigniewa Herberta",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Zbigniewa Herberta",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Zbożowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Zbożowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Zdobywców Wału Pomorskiego",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Zdobywców Wału Pomorskiego",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Zefirowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Zefirowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Zenona Klemensiewicza",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Zenona Klemensiewicza",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Zgoda",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Zgoda",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Zielona",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Zielona",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Zielone Wzgórze",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Zielone Wzgórze",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Zielonek",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Zielonek",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Zielony Pagórek",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Zielony Pagórek",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Ziemowita",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Ziemowita",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Zimowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Zimowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Zorzy",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Zorzy",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Zwycięstwa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Zwycięstwa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Złota",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Złota",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Złotych Kłosów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Złotych Kłosów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Łubinów",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Łubinów",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Łużycka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Łużycka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Łąkowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Łąkowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Śliwkowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Śliwkowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Śląska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Śląska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Śmiała",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Śmiała",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Śniadeckich",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Śniadeckich",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Światowida",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Światowida",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Świerkowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Świerkowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Świętego Wojciecha",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Świętego Wojciecha",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Świętopełka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Świętopełka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Żarnowiecka",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Żarnowiecka",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Żeglarska",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Żeglarska",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Żołnierzy 8. Dywizji",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Żołnierzy 8. Dywizji",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Żurawia",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Żurawia",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Żurawinowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Żurawinowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Żwirki i Wigury",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Żwirki i Wigury",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Żwirowa",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Żwirowa",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Żytnia",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Żytnia",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     },
     {
-        "Nazwa": "Żyzna",
-        "Dzielnica": "",
-        "Koszt": 2,
-        "Miejscowość": "Koszalin"
+        "street": "Żyzna",
+        "region": "",
+        "cost": 2,
+        "city": "Koszalin"
     }
 ]
