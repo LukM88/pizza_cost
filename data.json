@@ -2100,12 +2100,6 @@
         "city": "Koszalin"
     },
     {
-        "street": "Most Powstańców Warszawskich",
-        "region": "",
-        "cost": 2,
-        "city": "Koszalin"
-    },
-    {
         "street": "Młodości",
         "region": "",
         "cost": 2,
@@ -2358,30 +2352,6 @@
         "city": "Koszalin"
     },
     {
-        "street": "Park Europejski",
-        "region": "",
-        "cost": 2,
-        "city": "Koszalin"
-    },
-    {
-        "street": "Park im. Książąt Pomorskich",
-        "region": "",
-        "cost": 2,
-        "city": "Koszalin"
-    },
-    {
-        "street": "Park im. Władysława Turowskiego",
-        "region": "",
-        "cost": 2,
-        "city": "Koszalin"
-    },
-    {
-        "street": "Park Różany",
-        "region": "",
-        "cost": 2,
-        "city": "Koszalin"
-    },
-    {
         "street": "Parkowa",
         "region": "",
         "cost": 2,
@@ -2460,37 +2430,7 @@
         "city": "Koszalin"
     },
     {
-        "street": "Plac Gwiaździsty",
-        "region": "",
-        "cost": 2,
-        "city": "Koszalin"
-    },
-    {
         "street": "Plac Jana Kilińskiego",
-        "region": "",
-        "cost": 2,
-        "city": "Koszalin"
-    },
-    {
-        "street": "Plac Polonii",
-        "region": "",
-        "cost": 2,
-        "city": "Koszalin"
-    },
-    {
-        "street": "Plac Teatralny",
-        "region": "",
-        "cost": 2,
-        "city": "Koszalin"
-    },
-    {
-        "street": "Plac Wolności",
-        "region": "",
-        "cost": 2,
-        "city": "Koszalin"
-    },
-    {
-        "street": "Plac Zwycięstwa",
         "region": "",
         "cost": 2,
         "city": "Koszalin"
@@ -2965,42 +2905,6 @@
     },
     {
         "street": "Skowronków",
-        "region": "",
-        "cost": 2,
-        "city": "Koszalin"
-    },
-    {
-        "street": "Skwer gen. Marka Bezruczki",
-        "region": "",
-        "cost": 2,
-        "city": "Koszalin"
-    },
-    {
-        "street": "Skwer Kasi Sobczyk",
-        "region": "",
-        "cost": 2,
-        "city": "Koszalin"
-    },
-    {
-        "street": "Skwer Ofiar Katyńskich",
-        "region": "",
-        "cost": 2,
-        "city": "Koszalin"
-    },
-    {
-        "street": "Skwer Pionierów Koszalina",
-        "region": "",
-        "cost": 2,
-        "city": "Koszalin"
-    },
-    {
-        "street": "Skwer Polskiego Czerwonego Krzyża",
-        "region": "",
-        "cost": 2,
-        "city": "Koszalin"
-    },
-    {
-        "street": "Skwer prof. Jana Filipkowskiego",
         "region": "",
         "cost": 2,
         "city": "Koszalin"
