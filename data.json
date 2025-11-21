@@ -295,7 +295,7 @@
     },
     {
         "street": "Borówkowa",
-        "region": "Dzieręcino",
+        "region": "Dzierżęcino",
         "cost": 10,
         "city": "Koszalin"
     },
@@ -397,91 +397,91 @@
     },
     {
         "street": "Cedrowa",
-        "region": "",
-        "cost": 2,
+        "region": "Rokosowo",
+        "cost": 3,
         "city": "Koszalin"
     },
     {
         "street": "Chabrów",
-        "region": "",
-        "cost": 2,
-        "city": "Koszalin"
+        "region": "do zatwierdzenia",
+        "cost": 10,
+        "city": "Kretomino"
     },
     {
         "street": "Chełmska",
-        "region": "",
-        "cost": 2,
+        "region": "Bukowe",
+        "cost": 3,
         "city": "Koszalin"
     },
     {
         "street": "Chmielna",
-        "region": "",
-        "cost": 2,
+        "region": "Połczyńska",
+        "cost": 5,
         "city": "Koszalin"
     },
     {
         "street": "Cicha",
-        "region": "",
-        "cost": 2,
+        "region": "Chełmoniewo",
+        "cost": 7,
         "city": "Koszalin"
     },
     {
         "street": "Cisowa",
-        "region": "",
-        "cost": 2,
+        "region": "Rokosowo",
+        "cost": 3,
         "city": "Koszalin"
     },
     {
         "street": "Cyklamenów",
-        "region": "",
-        "cost": 2,
-        "city": "Koszalin"
+        "region": "do zatwierdzenia",
+        "cost": 10,
+        "city": "Kretomino"
     },
     {
         "street": "Cypriana Norwida",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Cypryjska",
-        "region": "",
-        "cost": 2,
+        "region": "Uni Europejskiej",
+        "cost": 4,
         "city": "Koszalin"
     },
     {
         "street": "Cyprysowa",
-        "region": "",
-        "cost": 2,
+        "region": "Rokosowo",
+        "cost": 3,
         "city": "Koszalin"
     },
     {
         "street": "Cytrynowa",
-        "region": "",
-        "cost": 2,
-        "city": "Koszalin"
+        "region": "do zatwierdzenia",
+        "cost": 7,
+        "city": "Stare Bielice"
     },
     {
         "street": "Czeremchowa",
-        "region": "",
-        "cost": 2,
+        "region": "Rokosowo 2",
+        "cost": 5,
         "city": "Koszalin"
     },
     {
         "street": "Czereśniowa",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Czesława Niemena",
-        "region": "",
-        "cost": 2,
+        "region": "Centrum",
+        "cost": 0,
         "city": "Koszalin"
     },
     {
         "street": "Czwartaków",
-        "region": "",
+        "region": "Rokosowo",
         "cost": 2,
         "city": "Koszalin"
     },
